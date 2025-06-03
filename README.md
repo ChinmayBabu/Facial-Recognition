@@ -54,16 +54,6 @@ You can modify these parameters in the script:
 tolerance = 0.6         # Lower is stricter (0.4–0.6 recommended)
 MODEL = "cnn"           # Use "hog" for faster but less accurate detection
 ```
-
-## ⚙️ Configuration
-
-You can modify these parameters in the script:
-
-```python
-tolerance = 0.6         # Lower is stricter (0.4–0.6 recommended)
-MODEL = "cnn"           # Use "hog" for faster but less accurate detection
-``
-
 ## 📁 Notes
 
 - Make sure images are clear and faces are well-lit.
